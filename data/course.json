@@ -26,7 +26,6 @@
     "website": "18-701-algebra-i-fall-2010"
   },
   "course_title": "Algebra I",
-  "hide_download": true,
   "course_description": "This undergraduate level Algebra I course covers groups, vector spaces, linear transformations, symmetry groups, bilinear forms, and linear groups.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "a8ba4347-9001-ade3-e5dc-781bb3e791e6",
     "website": "18-701-algebra-i-fall-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

@@ -5,8 +5,6 @@ description: This resource contains the information related to row rank and colu
 file: /courses/18-701-algebra-i-fall-2010/dfd72d3d4a11988c2335b5e9a79ce48b_MIT18_701F10_rrk_crk.pdf
 file_size: 60852
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,8 +5,6 @@ description: This resource contains the information related to multiplicative gr
 file: /courses/18-701-algebra-i-fall-2010/9148496b181b23a244cf4cc9f172305b_MIT18_701F10_cyclic12.pdf
 file_size: 70684
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
