@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the course text, and a list of reading
   assignments and exercises from the course text.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
